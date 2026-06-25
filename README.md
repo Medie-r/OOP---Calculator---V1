@@ -52,4 +52,4 @@ java src/com/medie/calculator/Main
 
 ## Contact
 - GitHub: Medie-r
-- Project Link: https://github.com/Medie-r/calculator-version-one
+- Project Link: https://github.com/Medie-r/OOP---Calculator---V1.git
